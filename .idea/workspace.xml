@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c786231b-ff91-4235-b541-261fe51b92a1" name="Default" comment="task# 升级2.0 空安全" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qPfAuTkHkGTj9aG03USGO8UPOu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/src/flutter_page_indicator" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/example/lib" />
+      <recent name="$PROJECT_DIR$/lib/src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/src/flutter_page_indicator" />
+      <recent name="$PROJECT_DIR$/lib/src/transformer_page_view" />
+      <recent name="$PROJECT_DIR$/example/images" />
+      <recent name="$PROJECT_DIR$/test" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Flutter.main.dart">
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InnerSwiper.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/example/lib/InnerSwiper.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/example/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="swiper_tranform_depeth.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/example/lib/swiper_tranform_depeth.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="flutter_swiper_test.dart" type="FlutterTestConfigType" factoryName="Flutter Test">
+      <option name="testFile" value="$PROJECT_DIR$/test/flutter_swiper_test.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Flutter.swiper_tranform_depeth.dart" />
+      <item itemvalue="Flutter.main.dart" />
+      <item itemvalue="Flutter.InnerSwiper.dart" />
+      <item itemvalue="Flutter Test.flutter_swiper_test.dart" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c786231b-ff91-4235-b541-261fe51b92a1" name="Default" comment="" />
+      <created>1526739255792</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526739255792</updated>
+    </task>
+    <task id="LOCAL-00001" summary="task# 升级2.0 空安全">
+      <created>1617084082871</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617084082871</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="3">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="task# 升级2.0 空安全" />
+    <option name="LAST_COMMIT_MESSAGE" value="task# 升级2.0 空安全" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="259" key="GridCell.Tab.0.bottom" timestamp="1617085792061">
+      <screen x="1440" y="-112" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="259" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617085792061" />
+    <state width="1878" height="259" key="GridCell.Tab.0.bottom/0.25.1440.790/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617082864714" />
+    <state width="1878" height="259" key="GridCell.Tab.0.bottom/0.25.1440.790/1440.-87.1920.1055@1440.-87.1920.1055" timestamp="1617082212071" />
+    <state width="1878" height="259" key="GridCell.Tab.0.center" timestamp="1617085792059">
+      <screen x="1440" y="-112" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="259" key="GridCell.Tab.0.center/0.0.1440.900/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617085792059" />
+    <state width="1878" height="259" key="GridCell.Tab.0.center/0.25.1440.790/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617082864711" />
+    <state width="1878" height="259" key="GridCell.Tab.0.center/0.25.1440.790/1440.-87.1920.1055@1440.-87.1920.1055" timestamp="1617082212069" />
+    <state width="1878" height="259" key="GridCell.Tab.0.left" timestamp="1617085792058">
+      <screen x="1440" y="-112" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="259" key="GridCell.Tab.0.left/0.0.1440.900/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617085792058" />
+    <state width="1878" height="259" key="GridCell.Tab.0.left/0.25.1440.790/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617082864709" />
+    <state width="1878" height="259" key="GridCell.Tab.0.left/0.25.1440.790/1440.-87.1920.1055@1440.-87.1920.1055" timestamp="1617082212068" />
+    <state width="1878" height="259" key="GridCell.Tab.0.right" timestamp="1617085792060">
+      <screen x="1440" y="-112" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="259" key="GridCell.Tab.0.right/0.0.1440.900/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617085792060" />
+    <state width="1878" height="259" key="GridCell.Tab.0.right/0.25.1440.790/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617082864712" />
+    <state width="1878" height="259" key="GridCell.Tab.0.right/0.25.1440.790/1440.-87.1920.1055@1440.-87.1920.1055" timestamp="1617082212070" />
+    <state x="1988" y="175" key="IDE.errors.dialog" timestamp="1617087523380">
+      <screen x="1440" y="-112" width="1920" height="1080" />
+    </state>
+    <state x="1988" y="175" key="IDE.errors.dialog/0.0.1440.900/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617087523380" />
+    <state x="1901" y="188" key="SettingsEditor" timestamp="1616986111383">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1901" y="188" key="SettingsEditor/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1616986111383" />
+    <state x="2000" y="152" key="Vcs.Push.Dialog.v2" timestamp="1617084084624">
+      <screen x="1440" y="-112" width="1920" height="1080" />
+    </state>
+    <state x="2000" y="152" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617084084624" />
+    <state x="183" y="44" width="1720" height="789" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1617083935208">
+      <screen x="0" y="25" width="1440" height="790" />
+    </state>
+    <state x="183" y="44" width="1720" height="789" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.25.1440.790/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617083935208" />
+    <state x="1540" y="13" width="1720" height="770" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.25.1440.790/1440.-87.1920.1055@1440.-87.1920.1055" timestamp="1617082411445" />
+    <state x="2167" y="321" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1617087514549">
+      <screen x="1440" y="-112" width="1920" height="1080" />
+    </state>
+    <state x="2167" y="321" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1440.900/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617087514549" />
+    <state x="2194" y="276" key="git4idea.ui.GitTagDialog" timestamp="1617086513584">
+      <screen x="1440" y="-112" width="1920" height="1080" />
+    </state>
+    <state x="2194" y="276" key="git4idea.ui.GitTagDialog/0.0.1440.900/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617086513584" />
+    <state x="2065" y="147" width="670" height="676" key="search.everywhere.popup" timestamp="1617069988240">
+      <screen x="1440" y="-87" width="1920" height="1055" />
+    </state>
+    <state x="2065" y="147" width="670" height="676" key="search.everywhere.popup/0.25.1440.790/1440.-87.1920.1055@1440.-87.1920.1055" timestamp="1617069988240" />
+    <state x="2065" y="259" width="670" height="676" key="search.everywhere.popup/0.25.1440.790/1440.25.1920.1055@1440.25.1920.1055" timestamp="1616989646534" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/../flutter/.pub-cache/hosted/pub.flutter-io.cn/transformer_page_view-0.0.2/lib/transformer_page_view.dart</url>
+          <line>254</line>
+          <option name="timeStamp" value="188" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="dart-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>flutter_swiper</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Dart Packages</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
