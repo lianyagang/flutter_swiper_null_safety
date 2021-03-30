@@ -15,7 +15,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c786231b-ff91-4235-b541-261fe51b92a1" name="Default" comment="task# 升级2.0 空安全" />
+    <list default="true" id="c786231b-ff91-4235-b541-261fe51b92a1" name="Default" comment="task# 升级2.0 空安全">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -143,7 +145,21 @@
       <option name="project" value="LOCAL" />
       <updated>1617084082871</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="task# 升级2.0 空安全">
+      <created>1617087614958</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1617087614958</updated>
+    </task>
+    <task id="LOCAL-00003" summary="task# 升级2.0 空安全">
+      <created>1617087639152</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1617087639152</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -204,10 +220,10 @@
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
     <state x="1901" y="188" key="SettingsEditor/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1616986111383" />
-    <state x="2000" y="152" key="Vcs.Push.Dialog.v2" timestamp="1617084084624">
+    <state x="2000" y="152" key="Vcs.Push.Dialog.v2" timestamp="1617087699050">
       <screen x="1440" y="-112" width="1920" height="1080" />
     </state>
-    <state x="2000" y="152" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617084084624" />
+    <state x="2000" y="152" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617087699050" />
     <state x="183" y="44" width="1720" height="789" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1617083935208">
       <screen x="0" y="25" width="1440" height="790" />
     </state>
