@@ -82,7 +82,7 @@ flutter_test
 2.12
 file:///Users/lian/work/flutter/flutter/packages/flutter_test/
 file:///Users/lian/work/flutter/flutter/packages/flutter_test/lib/
-flutter_swiper
+flutter_swiper_null_safety
 2.12
 file:///Users/lian/work/test/flutter_swiper/
 file:///Users/lian/work/test/flutter_swiper/lib/

@@ -128,13 +128,13 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "flutter_swiper",
+      "name": "flutter_swiper_null_safety",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2021-03-30T06:19:08.997002Z",
+  "generated": "2021-03-30T07:16:22.659488Z",
   "generator": "pub",
   "generatorVersion": "2.12.1"
 }

@@ -1,10 +1,10 @@
 library transformer_page_view;
 
 import 'package:flutter/widgets.dart';
-import 'package:flutter_swiper/src/transformer_page_view/index_controller.dart';
+import 'package:flutter_swiper_null_safety/src/transformer_page_view/index_controller.dart';
 
-export 'package:flutter_swiper/src/transformer_page_view/index_controller.dart';
-export 'package:flutter_swiper/src/transformer_page_view/parallax.dart';
+export 'package:flutter_swiper_null_safety/src/transformer_page_view/index_controller.dart';
+export 'package:flutter_swiper_null_safety/src/transformer_page_view/parallax.dart';
 
 ///
 /// NOTICE::

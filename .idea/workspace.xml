@@ -15,8 +15,31 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c786231b-ff91-4235-b541-261fe51b92a1" name="Default" comment="task# 升级2.0 空安全">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="c786231b-ff91-4235-b541-261fe51b92a1" name="Default" comment="task# 修改版本号">
+      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config_subset" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config_subset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/lib/InnerSwiper.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/InnerSwiper.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/lib/listener_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/listener_test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/lib/src/ExampleCustom.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/src/ExampleCustom.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/lib/src/ExampleSwiperInScrollView.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/src/ExampleSwiperInScrollView.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/example/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/flutter_swiper.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/flutter_swiper_null_safety.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/swiper.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/swiper.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/swiper_control.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/swiper_control.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/swiper_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/swiper_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/swiper_pagination.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/swiper_pagination.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/swiper_plugin.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/swiper_plugin.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/transformer_page_view/parallax.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/transformer_page_view/parallax.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/transformer_page_view/transformer_page_view.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/transformer_page_view/transformer_page_view.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/control_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/control_test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/flutter_swiper_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/flutter_swiper_test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/layout_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/layout_test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/pagination_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/pagination_test.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,7 +182,21 @@
       <option name="project" value="LOCAL" />
       <updated>1617087639152</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="task# 修改readme">
+      <created>1617087961265</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1617087961265</updated>
+    </task>
+    <task id="LOCAL-00005" summary="task# 修改版本号">
+      <created>1617088053142</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1617088053142</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -185,31 +222,33 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="task# 升级2.0 空安全" />
-    <option name="LAST_COMMIT_MESSAGE" value="task# 升级2.0 空安全" />
+    <MESSAGE value="task# 修改readme" />
+    <MESSAGE value="task# 修改版本号" />
+    <option name="LAST_COMMIT_MESSAGE" value="task# 修改版本号" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1878" height="259" key="GridCell.Tab.0.bottom" timestamp="1617085792061">
+    <state width="1878" height="274" key="GridCell.Tab.0.bottom" timestamp="1617090787159">
       <screen x="1440" y="-112" width="1920" height="1080" />
     </state>
-    <state width="1878" height="259" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617085792061" />
+    <state width="1878" height="274" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617090787159" />
     <state width="1878" height="259" key="GridCell.Tab.0.bottom/0.25.1440.790/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617082864714" />
     <state width="1878" height="259" key="GridCell.Tab.0.bottom/0.25.1440.790/1440.-87.1920.1055@1440.-87.1920.1055" timestamp="1617082212071" />
-    <state width="1878" height="259" key="GridCell.Tab.0.center" timestamp="1617085792059">
+    <state width="1878" height="274" key="GridCell.Tab.0.center" timestamp="1617090787156">
       <screen x="1440" y="-112" width="1920" height="1080" />
     </state>
-    <state width="1878" height="259" key="GridCell.Tab.0.center/0.0.1440.900/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617085792059" />
+    <state width="1878" height="274" key="GridCell.Tab.0.center/0.0.1440.900/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617090787156" />
     <state width="1878" height="259" key="GridCell.Tab.0.center/0.25.1440.790/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617082864711" />
     <state width="1878" height="259" key="GridCell.Tab.0.center/0.25.1440.790/1440.-87.1920.1055@1440.-87.1920.1055" timestamp="1617082212069" />
-    <state width="1878" height="259" key="GridCell.Tab.0.left" timestamp="1617085792058">
+    <state width="1878" height="274" key="GridCell.Tab.0.left" timestamp="1617090787154">
       <screen x="1440" y="-112" width="1920" height="1080" />
     </state>
-    <state width="1878" height="259" key="GridCell.Tab.0.left/0.0.1440.900/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617085792058" />
+    <state width="1878" height="274" key="GridCell.Tab.0.left/0.0.1440.900/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617090787154" />
     <state width="1878" height="259" key="GridCell.Tab.0.left/0.25.1440.790/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617082864709" />
     <state width="1878" height="259" key="GridCell.Tab.0.left/0.25.1440.790/1440.-87.1920.1055@1440.-87.1920.1055" timestamp="1617082212068" />
-    <state width="1878" height="259" key="GridCell.Tab.0.right" timestamp="1617085792060">
+    <state width="1878" height="274" key="GridCell.Tab.0.right" timestamp="1617090787157">
       <screen x="1440" y="-112" width="1920" height="1080" />
     </state>
-    <state width="1878" height="259" key="GridCell.Tab.0.right/0.0.1440.900/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617085792060" />
+    <state width="1878" height="274" key="GridCell.Tab.0.right/0.0.1440.900/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617090787157" />
     <state width="1878" height="259" key="GridCell.Tab.0.right/0.25.1440.790/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617082864712" />
     <state width="1878" height="259" key="GridCell.Tab.0.right/0.25.1440.790/1440.-87.1920.1055@1440.-87.1920.1055" timestamp="1617082212070" />
     <state x="1988" y="175" key="IDE.errors.dialog" timestamp="1617087523380">
@@ -220,10 +259,10 @@
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
     <state x="1901" y="188" key="SettingsEditor/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1616986111383" />
-    <state x="2000" y="152" key="Vcs.Push.Dialog.v2" timestamp="1617087699050">
+    <state x="2000" y="152" key="Vcs.Push.Dialog.v2" timestamp="1617088054936">
       <screen x="1440" y="-112" width="1920" height="1080" />
     </state>
-    <state x="2000" y="152" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617087699050" />
+    <state x="2000" y="152" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617088054936" />
     <state x="183" y="44" width="1720" height="789" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1617083935208">
       <screen x="0" y="25" width="1440" height="790" />
     </state>

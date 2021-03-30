@@ -10,8 +10,10 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.0
 
-  flutter_swiper:
-    path: ../
+  flutter_swiper_null_safety:
+    git:
+      url: 'https://github.com/lianyagang/flutter_swiper_null_safety.git'
+      ref: 'master'
 
   percent_indicator:
 
