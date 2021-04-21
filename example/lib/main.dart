@@ -115,8 +115,9 @@ class ExampleHorizontal extends StatelessWidget {
               fit: BoxFit.fill,
             );
           },
-          indicatorLayout: PageIndicatorLayout.COLOR,
+          indicatorLayout: PageIndicatorLayout.SCALE,
           autoplay: true,
+          autoplayDelay: 3000,
           itemCount: images.length,
           pagination: new SwiperPagination(),
           control: new SwiperControl(),
@@ -288,7 +289,7 @@ class ExamplePhone extends StatelessWidget {
             ),
           ),
           new Swiper.children(
-            autoplay: false,
+            autoplay: true,
             pagination: new SwiperPagination(
                 margin: new EdgeInsets.fromLTRB(0.0, 0.0, 0.0, 30.0),
                 builder: new DotSwiperPaginationBuilder(

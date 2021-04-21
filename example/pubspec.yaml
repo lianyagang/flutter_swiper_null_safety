@@ -11,9 +11,10 @@ dependencies:
   cupertino_icons: ^0.1.0
 
   flutter_swiper_null_safety:
-    git:
-      url: 'https://github.com/lianyagang/flutter_swiper_null_safety.git'
-      ref: 'master'
+    path: ../
+#    git:
+#      url: 'https://github.com/lianyagang/flutter_swiper_null_safety.git'
+#      ref: 'feature/flutter_swipter2.0'
 
   percent_indicator:
 

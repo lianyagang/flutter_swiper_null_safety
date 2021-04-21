@@ -24,7 +24,7 @@ class SwiperController extends IndexController {
 
   int index = 0;
   bool animation = false;
-  bool autoplay = false;
+  bool? autoplay;
 
   SwiperController();
 
