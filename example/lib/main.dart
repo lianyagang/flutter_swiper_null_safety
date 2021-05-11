@@ -117,10 +117,12 @@ class ExampleHorizontal extends StatelessWidget {
           },
           indicatorLayout: PageIndicatorLayout.SCALE,
           autoplay: true,
-          autoplayDelay: 3000,
+          autoplayDelay: 1000,
           itemCount: images.length,
           pagination: new SwiperPagination(),
           control: new SwiperControl(),
+          fade: 1.0,
+          viewportFraction: 0.85,
         ));
   }
 }
@@ -159,6 +161,7 @@ class ExampleFraction extends StatelessWidget {
           children: <Widget>[
             Expanded(
                 child: new Swiper(
+              indicatorLayout: PageIndicatorLayout.SLIDE,
               itemBuilder: (BuildContext context, int index) {
                 return new Image.asset(
                   images[index],

@@ -441,13 +441,15 @@ class _TransformerPageViewState extends State<TransformerPageView> {
 
   void _onGetSize(_) {
     Size? size;
-    RenderObject? renderObject = context.findRenderObject();
-    if (renderObject != null) {
-      Rect bounds = renderObject.paintBounds;
-      size = bounds.size;
+    if (mounted) {
+      RenderObject? renderObject = context.findRenderObject();
+      if (renderObject != null) {
+        Rect bounds = renderObject.paintBounds;
+        size = bounds.size;
+      }
+      _calcCurrentPixels();
+      onGetSize(size);
     }
-    _calcCurrentPixels();
-    onGetSize(size);
   }
 
   void onGetSize(Size? size) {
