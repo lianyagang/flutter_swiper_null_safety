@@ -1,3 +1,6 @@
+dependencies:
+  flutter_swiper_null_safety: ^1.0.2
+
 这个库，
 完全根据https://github.com/jzoom/flutter_swiper
 使用方式，跟原作者一样
