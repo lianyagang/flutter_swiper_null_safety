@@ -2,6 +2,7 @@ library transformer_page_view;
 
 import 'package:flutter/widgets.dart';
 import 'package:flutter_swiper_null_safety/src/transformer_page_view/index_controller.dart';
+import 'package:flutter_swiper_null_safety/src/utils/utils.dart';
 
 export 'package:flutter_swiper_null_safety/src/transformer_page_view/index_controller.dart';
 export 'package:flutter_swiper_null_safety/src/transformer_page_view/parallax.dart';
@@ -513,7 +514,8 @@ class _TransformerPageViewState extends State<TransformerPageView> {
       }
     }
     if (_transformer != null)
-      WidgetsBinding.instance!.addPostFrameCallback(_onGetSize);
+      Utils.ambiguate(WidgetsBinding.instance)!
+          .addPostFrameCallback(_onGetSize);
 
     if (_controller != getNotifier()) {
       if (_controller != null) {
@@ -530,7 +532,8 @@ class _TransformerPageViewState extends State<TransformerPageView> {
   @override
   void didChangeDependencies() {
     if (_transformer != null)
-      WidgetsBinding.instance!.addPostFrameCallback(_onGetSize);
+      Utils.ambiguate(WidgetsBinding.instance)!
+          .addPostFrameCallback(_onGetSize);
     super.didChangeDependencies();
   }
 
