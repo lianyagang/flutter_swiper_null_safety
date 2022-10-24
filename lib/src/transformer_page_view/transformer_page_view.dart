@@ -163,13 +163,13 @@ class TransformerPageController extends PageController {
       renderPage = itemCount - (renderPage ?? 0) - 1;
     }
 
-    return renderPage;
+    return renderPage ?? '0';
   }
 
   double get page {
     return loop
         ? _getRenderPageFromRealPage(realPage, loop, itemCount, reverse)
-        : realPage;
+        : realPage ?? 0.0;
   }
 
   int getRealIndexFromRenderIndex(int index) {
@@ -179,9 +179,10 @@ class TransformerPageController extends PageController {
   static int _getRealIndexFromRenderIndex(
       int index, bool loop, int itemCount, bool reverse) {
     int result = reverse ? (itemCount - index - 1) : index;
-    if (loop) {
+    if (loop && itemCount > 0) {
       result += kMiddleValue;
     }
+
     return result;
   }
 }
@@ -261,7 +262,7 @@ class TransformerPageView extends StatefulWidget {
     required this.itemBuilder,
     this.pageController,
     required this.itemCount,
-  })   : this.duration =
+  })  : this.duration =
             duration ?? new Duration(milliseconds: kDefaultTransactionDuration),
         super(key: key);
 

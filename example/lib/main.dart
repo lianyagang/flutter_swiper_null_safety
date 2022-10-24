@@ -109,6 +109,7 @@ class ExampleHorizontal extends StatelessWidget {
           title: Text("ExampleHorizontal"),
         ),
         body: new Swiper(
+          loop: false,
           itemBuilder: (BuildContext context, int index) {
             return new Image.asset(
               images[index],
@@ -135,6 +136,7 @@ class ExampleVertical extends StatelessWidget {
           title: Text("ExampleVertical"),
         ),
         body: new Swiper(
+          loop: false,
           itemBuilder: (BuildContext context, int index) {
             return new Image.asset(
               images[index],

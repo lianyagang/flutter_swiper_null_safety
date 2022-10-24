@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -17,11 +20,26 @@
   <component name="ChangeListManager">
     <list default="true" id="c786231b-ff91-4235-b541-261fe51b92a1" name="Default" comment="bug# 修复&#10;https://github.com/lianyagang/flutter_swiper_null_safety/issues/1&#10;autoplay: true 没生效，手动滑动一下才能自动轮播。">
       <change beforePath="$PROJECT_DIR$/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config_subset" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config_subset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/version" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/version" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.packages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/java/com/example/example/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/app/src/main/java/com/example/example/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Flutter/flutter_export_environment.sh" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Flutter/flutter_export_environment.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/lib/src/forms/form_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/src/forms/form_widget.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_swiper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_swiper.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/custom_layout.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/custom_layout.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/swiper.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/swiper.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/swiper_pagination.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/swiper_pagination.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/src/transformer_page_view/transformer_page_view.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/transformer_page_view/transformer_page_view.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +62,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1qPfAuTkHkGTj9aG03USGO8UPOu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -53,10 +74,14 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/src/flutter_page_indicator" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -86,12 +111,6 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <option name="VM_PARAMETERS" />
     </configuration>
-    <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-    </configuration>
     <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
     </configuration>
@@ -115,7 +134,15 @@
     </configuration>
     <configuration name="flutter_swiper_test.dart" type="FlutterTestConfigType" factoryName="Flutter Test">
       <option name="testFile" value="$PROJECT_DIR$/test/flutter_swiper_test.dart" />
+      <option name="useRegexp" value="false" />
       <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
@@ -133,6 +160,7 @@
       <item itemvalue="Flutter Test.flutter_swiper_test.dart" />
     </list>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -215,7 +243,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="task# 升级2.0 空安全" />
@@ -224,94 +251,6 @@
     <MESSAGE value="task# 修改插件名称" />
     <MESSAGE value="bug# 修复&#10;https://github.com/lianyagang/flutter_swiper_null_safety/issues/1&#10;autoplay: true 没生效，手动滑动一下才能自动轮播。" />
     <option name="LAST_COMMIT_MESSAGE" value="bug# 修复&#10;https://github.com/lianyagang/flutter_swiper_null_safety/issues/1&#10;autoplay: true 没生效，手动滑动一下才能自动轮播。" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state width="493" height="430" key="DebuggerActiveHint" timestamp="1620701943812">
-      <screen x="0" y="0" width="1440" height="830" />
-    </state>
-    <state width="493" height="430" key="DebuggerActiveHint/0.0.1440.830/1440.-65.1920.1055@0.0.1440.830" timestamp="1620701943812" />
-    <state width="472" height="466" key="DebuggerActiveHint/0.0.1440.900/1440.-90.1920.1080@0.0.1440.900" timestamp="1618986206404" />
-    <state x="0" y="0" width="1440" height="900" key="DiffContextDialog" timestamp="1620721502615">
-      <screen x="0" y="25" width="1440" height="805" />
-    </state>
-    <state x="0" y="0" width="1440" height="900" key="DiffContextDialog/0.0.1440.900/1440.-90.1920.1080@0.0.1440.900" timestamp="1620721502615" />
-    <state x="1540" y="-12" width="1720" height="880" key="DiffContextDialog/0.25.1440.790/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617093976051" />
-    <state width="1398" height="220" key="GridCell.Tab.0.bottom" timestamp="1620712028771">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1878" height="274" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617096451348" />
-    <state width="1398" height="220" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-90.1920.1080@0.0.1440.900" timestamp="1620712028771" />
-    <state width="1878" height="259" key="GridCell.Tab.0.bottom/0.25.1440.790/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617082864714" />
-    <state width="1878" height="259" key="GridCell.Tab.0.bottom/0.25.1440.790/1440.-87.1920.1055@1440.-87.1920.1055" timestamp="1617082212071" />
-    <state width="1398" height="220" key="GridCell.Tab.0.center" timestamp="1620712028768">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1878" height="274" key="GridCell.Tab.0.center/0.0.1440.900/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617096451345" />
-    <state width="1398" height="220" key="GridCell.Tab.0.center/0.0.1440.900/1440.-90.1920.1080@0.0.1440.900" timestamp="1620712028768" />
-    <state width="1878" height="259" key="GridCell.Tab.0.center/0.25.1440.790/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617082864711" />
-    <state width="1878" height="259" key="GridCell.Tab.0.center/0.25.1440.790/1440.-87.1920.1055@1440.-87.1920.1055" timestamp="1617082212069" />
-    <state width="1398" height="220" key="GridCell.Tab.0.left" timestamp="1620712028766">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1878" height="274" key="GridCell.Tab.0.left/0.0.1440.900/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617096451344" />
-    <state width="1398" height="220" key="GridCell.Tab.0.left/0.0.1440.900/1440.-90.1920.1080@0.0.1440.900" timestamp="1620712028766" />
-    <state width="1878" height="259" key="GridCell.Tab.0.left/0.25.1440.790/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617082864709" />
-    <state width="1878" height="259" key="GridCell.Tab.0.left/0.25.1440.790/1440.-87.1920.1055@1440.-87.1920.1055" timestamp="1617082212068" />
-    <state width="1398" height="220" key="GridCell.Tab.0.right" timestamp="1620712028769">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1878" height="274" key="GridCell.Tab.0.right/0.0.1440.900/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617096451347" />
-    <state width="1398" height="220" key="GridCell.Tab.0.right/0.0.1440.900/1440.-90.1920.1080@0.0.1440.900" timestamp="1620712028769" />
-    <state width="1878" height="259" key="GridCell.Tab.0.right/0.25.1440.790/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617082864712" />
-    <state width="1878" height="259" key="GridCell.Tab.0.right/0.25.1440.790/1440.-87.1920.1055@1440.-87.1920.1055" timestamp="1617082212070" />
-    <state x="1988" y="175" key="IDE.errors.dialog" timestamp="1617087523380">
-      <screen x="1440" y="-112" width="1920" height="1080" />
-    </state>
-    <state x="1988" y="175" key="IDE.errors.dialog/0.0.1440.900/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617087523380" />
-    <state x="504" y="156" key="RollbackChangesDialog" timestamp="1620721513412">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="504" y="156" key="RollbackChangesDialog/0.0.1440.900/1440.-90.1920.1080@0.0.1440.900" timestamp="1620721513412" />
-    <state x="1901" y="188" key="SettingsEditor" timestamp="1616986111383">
-      <screen x="1440" y="0" width="1920" height="1080" />
-    </state>
-    <state x="1901" y="188" key="SettingsEditor/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1616986111383" />
-    <state width="587" height="445" key="SwitcherDM" timestamp="1620702142987">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="587" height="411" key="SwitcherDM/0.0.1440.830/1440.-65.1920.1055@0.0.1440.830" timestamp="1620701818287" />
-    <state width="587" height="445" key="SwitcherDM/0.0.1440.900/1440.-90.1920.1080@0.0.1440.900" timestamp="1620702142987" />
-    <state x="420" y="220" key="Vcs.Push.Dialog.v2" timestamp="1618987985407">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="2000" y="152" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617093609902" />
-    <state x="420" y="220" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.-90.1920.1080@0.0.1440.900" timestamp="1618987985407" />
-    <state x="0" y="43" width="1440" height="791" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1618987454406">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="0" y="43" width="1440" height="791" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1440.900/1440.-90.1920.1080@0.0.1440.900" timestamp="1618987454406" />
-    <state x="183" y="44" width="1720" height="789" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.25.1440.790/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617083935208" />
-    <state x="1540" y="13" width="1720" height="770" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.25.1440.790/1440.-87.1920.1055@1440.-87.1920.1055" timestamp="1617082411445" />
-    <state x="489" y="108" width="585" height="685" key="find.popup" timestamp="1618985598611">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="2092" y="17" width="615" height="822" key="find.popup/0.0.1440.900/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617100845109" />
-    <state x="489" y="108" width="585" height="685" key="find.popup/0.0.1440.900/1440.-90.1920.1080@0.0.1440.900" timestamp="1618985598611" />
-    <state x="545" y="361" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1618987895445">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="2167" y="321" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1440.900/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617087514549" />
-    <state x="545" y="361" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1440.900/1440.-90.1920.1080@0.0.1440.900" timestamp="1618987895445" />
-    <state x="2194" y="276" key="git4idea.ui.GitTagDialog" timestamp="1617086513584">
-      <screen x="1440" y="-112" width="1920" height="1080" />
-    </state>
-    <state x="2194" y="276" key="git4idea.ui.GitTagDialog/0.0.1440.900/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617086513584" />
-    <state x="469" y="200" width="503" height="577" key="search.everywhere.popup" timestamp="1618985918734">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="469" y="200" width="503" height="577" key="search.everywhere.popup/0.0.1440.900/1440.-90.1920.1080@0.0.1440.900" timestamp="1618985918734" />
-    <state x="2065" y="147" width="670" height="676" key="search.everywhere.popup/0.25.1440.790/1440.-87.1920.1055@1440.-87.1920.1055" timestamp="1617069988240" />
-    <state x="2065" y="259" width="670" height="676" key="search.everywhere.popup/0.25.1440.790/1440.25.1920.1055@1440.25.1920.1055" timestamp="1616989646534" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -322,18 +261,13 @@
           <option name="timeStamp" value="188" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
-          <url>file://$PROJECT_DIR$/lib/src/swiper.dart</url>
-          <line>310</line>
-          <option name="timeStamp" value="191" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
           <url>file://$PROJECT_DIR$/lib/src/transformer_page_view/transformer_page_view.dart</url>
-          <line>458</line>
+          <line>460</line>
           <option name="timeStamp" value="199" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
           <url>file://$PROJECT_DIR$/lib/src/transformer_page_view/transformer_page_view.dart</url>
-          <line>448</line>
+          <line>450</line>
           <option name="timeStamp" value="200" />
         </line-breakpoint>
       </breakpoints>
